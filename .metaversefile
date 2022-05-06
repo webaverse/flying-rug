@@ -1,0 +1,16 @@
+{
+  "name": "flying-rug",
+  "description": "A seemingly ordinary rug found in a trash can behind the old tavern",
+  "start_url": "rug.glb",
+  "components": [
+    {
+      "key": "sit",
+      "value": {
+        "subtype": "stand",
+        "sitOffset": [0, 0.5, 0],
+        "speed": 0.02,
+        "damping": 0.99
+      }
+    }
+  ]
+}
