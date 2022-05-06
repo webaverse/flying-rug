@@ -7,7 +7,7 @@
       "key": "sit",
       "value": {
         "subtype": "saddle",
-        "sitOffset": [0, 0.1, 0],
+        "sitOffset": [0, -0.25, 0],
         "speed": 0.02,
         "damping": 0.99
       }
