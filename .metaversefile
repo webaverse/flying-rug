@@ -4,6 +4,10 @@
   "start_url": "rug.glb",
   "components": [
     {
+      "key": "physics",
+      "value": true
+    },
+    {
       "key": "sit",
       "value": {
         "subtype": "stand",
